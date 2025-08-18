@@ -3,7 +3,7 @@
     <channel>
         <title>Tokhon Partner App Updates</title>
         <item>
-            <title>Version 1.0.13</title>
+            <title>Version 1.0.12</title>
             <description>
                 <![CDATA[
                     🚀 New Features:
@@ -21,7 +21,7 @@
             </description>
             <pubDate>Mon, 18 Aug 2025 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.gorideapp.driver"
-                       sparkle:version="17"
+                       sparkle:version="16"
                        sparkle:os="android"
                        length="0"
                        type="application/vnd.android.package-archive" />
